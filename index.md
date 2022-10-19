@@ -12,7 +12,7 @@ Edit paragraphs just like we did in Word processingsoftware. more detailed editi
 
 ## Custom
 
-Elements can be customized.
+Elements can be customized. under includes directory, we can have footer_custom, nav_footer_custom, head_custom, header_custom
 
 
 
