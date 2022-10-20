@@ -10,3 +10,24 @@ background-color:#363B46;
 }
 
 .site-bar{border:0}
+
+
+
+/* Remove gradated background image from nav bar menu items on hover or when selected (active) */
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+    background-image: none;
+}
+.nav-list .nav-list-item .nav-list-expander:hover {
+  background-image: none;
+}
+
+/* Remove gradated background image from site title on hover */
+.site-title:hover {
+  background-image: none;
+}
+
+
+
+
+
