@@ -6,13 +6,15 @@ nav_order: 1
 
 # Edit with Markdown
 
-Edit paragraphs just like we did in Word processingsoftware. more detailed editing rules ccan be found in [just the docs](https://just-the-docs.github.io/just-the-docs/docs/ui-components/typography/)
+Markdown is a text-to-HTML conversion tool for web writers. [Markdown cheatsheet] (https://www.markdownguide.org/cheat-sheet/)
+
+Installation theme using remote theme feature. more details on [just the docs](https://just-the-docs.github.io/just-the-docs/docs/ui-components/typography/)
 
 
 
-## Custom parts
+## Custom
 
-Elements can be customized. under includes directory, we can have footer_custom, nav_footer_custom, head_custom, header_custom
+Elements can be customized. under `_includes` directory, we can have html files: footer_custom, nav_footer_custom, head_custom, header_custom
 
 
 
