@@ -6,7 +6,7 @@ nav_order: 1
 
 # Edit with Markdown
 
-Markdown is a text-to-HTML conversion tool for web writers. [Markdown cheatsheet] (https://www.markdownguide.org/cheat-sheet/)
+Markdown is a text-to-HTML conversion tool for web writers. [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 Installation theme using remote theme feature. more details on [just the docs](https://just-the-docs.github.io/just-the-docs/docs/ui-components/typography/)
 
