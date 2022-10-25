@@ -1,5 +1,4 @@
 remote_theme: just-the-docs/just-the-docs
-logo: "/assets/images/logo.png"
-site_title: liwazi
+logo: liwazi
 color_scheme: liwazi
 search_enabled: false
